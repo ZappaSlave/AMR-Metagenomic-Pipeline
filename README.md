@@ -36,15 +36,4 @@ results/              -> KMA outputs (.res files)
 visualization/        -> CSVs and plots
 
 -----------------------------------
-Example summary output
------------------------------------
-Summary for sample 'SRR13172349':
-Total AMR abundance (depth): 2059.78
-Dominant drug classes detected:
-  - MLS (33.9%)
-  - Aminoglycosides (27.8%)
-  - Tetracyclines (14.7%)
-Top detected resistance genes:
-  - MEG_4223|Drugs|Oxazolidinone|...
-  - MEG_3988|Drugs|MLS|...
-  - MEG_3992|Drugs|MLS|...
+
